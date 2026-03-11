@@ -22,13 +22,6 @@ O processo executado pelo programa segue as seguintes etapas:
 6. Conversão do restante da imagem para **escala de cinza**.
 7. Combinação da imagem em cinza com as regiões vermelhas destacadas.
 
-## Estrutura do projeto
-
-Detectar_Cor_HSV
-│
-├── main.py        # Arquivo principal do programa
-├── funcoes.py     # Funções auxiliares do processamento
-└── img.png        # Imagem utilizada no teste
 
 ## Como executar
 
